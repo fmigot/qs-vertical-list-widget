@@ -1,0 +1,20 @@
+{
+  "name": "vertical-list-widget",
+  "version": "1.0.0",
+  "registry": "local",
+  "jspmPackage": true,
+  "main": "index.js",
+  "format": "cjs",
+  "dependencies": {
+    "fast-deep-equal": "npm:fast-deep-equal@^3.1.1",
+    "material-ui": "npm:material-ui@0",
+    "moment": "npm:moment@2.19.2",
+    "moment-jdateformatparser": "npm:moment-jdateformatparser@^1.2.1",
+    "prop-types": "npm:prop-types@^15.5.10",
+    "react-tooltip": "npm:react-tooltip@^3.4.0"
+  },
+  "peerDependencies": {
+    "react": "npm:react@^15.5.4",
+    "react-dom": "npm:react-dom@^15.4.2"
+  }
+}
