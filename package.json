@@ -8,7 +8,7 @@
         "version": "1.0.0",
         "dependencies": {
             "fast-deep-equal": "npm:fast-deep-equal@^3.1.1",
-            "material-ui": "npm:material-ui@0",
+            "material-ui": "npm:material-ui@0.18.3",
             "moment": "npm:moment@2.19.2",
             "moment-jdateformatparser": "npm:moment-jdateformatparser@^1.2.1",
             "prop-types": "npm:prop-types@^15.5.10",
