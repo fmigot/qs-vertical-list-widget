@@ -121,7 +121,7 @@ function extractAndBuildList(tab, qsColors, wording) {
                     wordWrap: 'break-word'
                 };
                 var primaryTextStyle = {
-                    fontSize: 12,
+                    fontSize: 22,
                     color: qsColors.qsGrey14
                 };
                 var secondaryTextStyle = {

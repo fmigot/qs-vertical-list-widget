@@ -1,6 +1,7 @@
 {
     "name": "qs-vertical-list-widget",
     "version": "1.0.0",
+    "main": "dist/index.js",
     "jspm": {
         "name": "vertical-list-widget",
         "description": "React component",
